@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-### Find me on [Kaggle](https://www.kaggle.com/ishikajohari) and [Medium](https://medium.com/@ishikajohari)
+#### Find me on [Kaggle](https://www.kaggle.com/ishikajohari) and [Medium](https://medium.com/@ishikajohari).
+
 
 ### Kaggle tiers:
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ishikajohari/competition)
