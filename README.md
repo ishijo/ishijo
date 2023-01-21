@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
+### Find me on ![Kaggle](https://www.kaggle.com/ishikajohari) and ![Medium](https://medium.com/@ishikajohari)
+
+### Kaggle tiers:
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ishikajohari/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ishikajohari/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ishikajohari/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ishikajohari/discussion)
 <!--
 **ishijo/ishijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
