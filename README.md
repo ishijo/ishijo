@@ -1,8 +1,6 @@
-<base target="_blank">
-
 ## Hi there 👋
 
-#### Find me on [Kaggle](https://www.kaggle.com/ishikajohari) and [Medium](https://medium.com/@ishikajohari).
+#### Find me on [Kaggle](https://external.ink?to=/https://www.kaggle.com/ishikajohari) and [Medium](https://external.ink?to=/https://medium.com/@ishikajohari).
 
 <!--
 ### Kaggle tiers:
