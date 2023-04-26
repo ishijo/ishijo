@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 #### Find me on [Kaggle](https://kaggle.com/ishikajohari) and [Medium](https://medium.com/@ishikajohari).
 
