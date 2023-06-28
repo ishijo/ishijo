@@ -6,7 +6,7 @@
 
 I'm a Data Science Analyst at Dell Technologies 😚!
 
-- 🔭 I'm currently working on a side project relating to book and movie recommendations
+- 🔭 I'm currently working on a side project that converts books to movie recommendations
 - 💬 You can reach out to me on Linkedin!
 
 
