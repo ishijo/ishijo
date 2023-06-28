@@ -1,8 +1,8 @@
 # Hi there 👋
-![Static Badge](https://img.shields.io/badge/ijohari-linkedin?style=flat&logo=linkedin&logoColor=%23ffffff&color=%230077b5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fijohari%2F)
-![Static Badge](https://img.shields.io/badge/ishikajohari-medium?style=flat&logo=medium&logoColor=%23ffffff&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fishikajohari.medium.com%2F)
-![Static Badge](https://img.shields.io/badge/ishijohari%40gmail.com-gmail?style=flat&logo=gmail&logoColor=%23ffffff&labelColor=%23c71610&color=%23c71610&link=ishijohari%40gmail.com)
-![Static Badge](https://img.shields.io/badge/ishikajohari-kaggle?style=flat&logo=kaggle&logoColor=%23ffffff&labelColor=%2320beff&color=%2320beff&link=https%3A%2F%2Fwww.kaggle.com%2Fishikajohari)
+[![Static Badge](https://img.shields.io/badge/ijohari-linkedin?style=flat&logo=linkedin&logoColor=%23ffffff&color=%230077b5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fijohari%2F)](https://www.linkedin.com/in/ijohari/)
+[![Static Badge](https://img.shields.io/badge/ishikajohari-medium?style=flat&logo=medium&logoColor=%23ffffff&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fishikajohari.medium.com%2F)](https://ishikajohari.medium.com/)
+[![Static Badge](https://img.shields.io/badge/ishijohari%40gmail.com-gmail?style=flat&logo=gmail&logoColor=%23ffffff&labelColor=%23c71610&color=%23c71610&link=ishijohari%40gmail.com)](mailto:ishijohari@gmail.com)
+[![Static Badge](https://img.shields.io/badge/ishikajohari-kaggle?style=flat&logo=kaggle&logoColor=%23ffffff&labelColor=%2320beff&color=%2320beff&link=https%3A%2F%2Fwww.kaggle.com%2Fishikajohari)](https://www.kaggle.com/ishikajohari)
 
 I'm a Data Science Analyst at Dell Technologies 😚!
 
