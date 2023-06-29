@@ -4,7 +4,7 @@
 [![Static Badge](https://img.shields.io/badge/ishikajohari-medium?style=flat&logo=medium&logoColor=%23ffffff&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fishikajohari.medium.com%2F)](https://ishikajohari.medium.com/)
 [![Static Badge](https://img.shields.io/badge/ishijohari%40gmail.com-gmail?style=flat&logo=gmail&logoColor=%23ffffff&labelColor=%23c71610&color=%23c71610&link=ishijohari%40gmail.com)](mailto:ishijohari@gmail.com)
 [![Static Badge][badge]
-](https://ishijo.github.io/))
+](https://ishijo.github.io/)
 
 
 
