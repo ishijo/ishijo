@@ -1,4 +1,3 @@
-<base target="_blank">
 # Hi there 👋
 [![Static Badge](https://img.shields.io/badge/ijohari-linkedin?style=flat&logo=linkedin&logoColor=%23ffffff&color=%230077b5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fijohari%2F)](https://www.linkedin.com/in/ijohari/)
 [![Static Badge](https://img.shields.io/badge/ishikajohari-medium?style=flat&logo=medium&logoColor=%23ffffff&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fishikajohari.medium.com%2F)](https://ishikajohari.medium.com/)
@@ -10,7 +9,7 @@ I'm a Data Science Analyst at Dell Technologies 😚!
 - 🔭 I'm currently working on a side project that converts books to movie recommendations
 - 💬 You can reach out to me on Linkedin!
 
-
+<base target="_blank">
 <!--
 
 ## Find me on [Kaggle](https://kaggle.com/ishikajohari) and [Medium](https://medium.com/@ishikajohari).
