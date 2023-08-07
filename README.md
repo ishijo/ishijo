@@ -1,4 +1,6 @@
-# Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Borel&size=32&duration=2500&pause=2000&color=000000&vCenter=true&width=435&lines=Hey+there!++I'm+Ishika+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+
 [![Static Badge][badge]](https://ishijo.github.io/)
 [![Static Badge](https://img.shields.io/badge/ijohari-linkedin?style=flat&logo=linkedin&logoColor=%23ffffff&color=%230077b5&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fijohari%2F)](https://www.linkedin.com/in/ijohari/)
 [![Static Badge](https://img.shields.io/badge/ishikajohari-kaggle?style=flat&logo=kaggle&logoColor=%23ffffff&labelColor=%2320beff&color=%2320beff&link=https%3A%2F%2Fwww.kaggle.com%2Fishikajohari)](https://www.kaggle.com/ishikajohari)
