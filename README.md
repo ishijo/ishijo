@@ -14,7 +14,7 @@ I'm a Data Science Analyst at Dell Technologies 😚!
 - 🔭 I'm currently working on a side project that handles cross content recommendations (Movies, Books, Series, etc)
 - 💬 You can reach out to me on Linkedin or Gmail!
 
-## Kaggle Stats
+## [Kaggle Stats](https://www.kaggle.com/ishikajohari)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ishikajohari/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ishikajohari/dataset/light)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ishikajohari/notebook/light)
