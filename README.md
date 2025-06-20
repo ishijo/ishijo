@@ -9,7 +9,7 @@
 
 
 
-I'm a Data Science Analyst at Dell Technologies 😚!
+I'm a Grad student at the University of Washington Seattle and an Ex Data Science Analyst at Dell Technologies 😚!
 
 - 🔭 I'm currently working on a side project that handles cross content recommendations (Movies, Books, Series, etc)
 - 💬 You can reach out to me on Linkedin or Gmail!
