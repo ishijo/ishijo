@@ -17,6 +17,8 @@ I'm a Grad student at the University of Washington Seattle and an Ex Data Scienc
 - 🏢 Previously spent **2 years as a Data Scientist at Dell Technologies**, working on end-to-end analytics and ML solutions while in the Customer Sentiment Organisation.
 - 💬 You can reach out to me on LinkedIn or Gmail!
 
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishijo&bg_color=d8cceb&radius=16&height=250)](https://github.com/ishijo/github-readme-activity-graph)
+
 <!-- ## [Kaggle Stats](https://www.kaggle.com/ishikajohari)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ishikajohari/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ishikajohari/dataset/light)
