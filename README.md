@@ -11,9 +11,9 @@
 
 I'm a Grad student at the University of Washington Seattle and an Ex Data Science Analyst at Dell Technologies 😚!
 
-- 🔭 Currently a Graduate Research Scholar at the SSEC at the eScience Institue (UW) where I'm contributing to the OVRO-LWA open-source project, building scalable data access and analysis tools for large-scale radio astronomy datasets.
-- 💼 Actively exploring full-time Data Science roles starting April 2026, with interests across applied ML, analytics, and data-driven product work.
-- 🏢 Previously spent 2 years as a Data Scientist at Dell Technologies, working on end-to-end analytics and ML solutions while in the Customer Sentiment Organisation.
+- 🔭 Currently a **Graduate Research Scholar** at the SSEC at the eScience Institue (UW) where I'm contributing to the [**OVRO-LWA open-source project**](https://github.com/uw-ssec/ovro-lwa-portal), building scalable data access and analysis tools for large-scale radio astronomy datasets.
+- 💼 Actively **exploring full-time Data Science roles** starting April 2026, with interests across applied ML, analytics, and data-driven product work.
+- 🏢 Previously spent **2 years as a Data Scientist at Dell Technologies**, working on end-to-end analytics and ML solutions while in the Customer Sentiment Organisation.
 - 💬 You can reach out to me on LinkedIn or Gmail!
 
 <!-- ## [Kaggle Stats](https://www.kaggle.com/ishikajohari)
