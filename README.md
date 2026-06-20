@@ -15,7 +15,8 @@ I'm a fresh grad from the University of Washington Seattle and an Ex Data Scient
 - 🔭 Was a **Graduate Research Scholar** at the [**SSEC**](https://github.com/uw-ssec) at the eScience Institute (UW), where I built an [**ADA Compliance Tool**](https://github.com/uw-ssec/ada-compliance) to automate WCAG 2.1 AA remediation for research PDFs using LLMs, and earlier contributed to the [**OVRO-LWA open-source project**](https://github.com/uw-ssec/ovro-lwa-portal), building scalable cloud-native data access tools for Caltech's 96TB radio astronomy archive.
 - 🔐 Also contributed to **Google's** [**Vanir open-source library**](https://github.com/google/vanir), extending static security patch detection to Python repositories as part of my UW capstone.
 - 🏢 Previously spent **2+ years as a Data Scientist at Dell Technologies** on the Experimentation & Analytics team, shipping NLP systems, propensity models, and A/B testing infrastructure at scale.
-- 💬 You can reach out to me on [**LinkedIn**](https://linkedin.com/in/ijohari) or at ishijohari@gmail.com!
+
+💬 You can reach out to me on [**LinkedIn**](https://linkedin.com/in/ijohari) or at ishijohari@gmail.com!
 
 [![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ishijo&bg_color=d8cceb&radius=16&height=250)](https://github.com/ishijo/github-readme-activity-graph)
 
