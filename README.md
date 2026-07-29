@@ -7,13 +7,15 @@
 [![Static Badge](https://img.shields.io/badge/ishikajohari-medium?style=flat&logo=medium&logoColor=%23ffffff&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fishikajohari.medium.com%2F)](https://ishikajohari.medium.com/)
 [![Static Badge](https://img.shields.io/badge/ishijohari%40gmail.com-gmail?style=flat&logo=gmail&logoColor=%23ffffff&labelColor=%23c71610&color=%23c71610&link=ishijohari%40gmail.com)](mailto:ishijohari@gmail.com)
 
-
+[![Google OSS Contributor](https://img.shields.io/badge/Google-OSS%20Contributor-4285F4?style=flat&logo=google&logoColor=white)](https://github.com/google/vanir)
+[![UW SSEC Open Source](https://img.shields.io/badge/UW%20SSEC-Open%20Source%20Contributor-4B2E83?style=flat&logo=github&logoColor=white)](https://github.com/uw-ssec)
+[![OVRO-LWA Contributor](https://img.shields.io/badge/OVRO--LWA-Portal%20Contributor-1F6FEB?style=flat&logo=github&logoColor=white)](https://github.com/ovro-lwa/ovro-lwa-portal/commits?author=ishijo)
 
 I'm a fresh grad from the University of Washington Seattle and an Ex Data Scientist at Dell Technologies 😊!
 
 - 💼 Actively **exploring full-time Data Science, Applied Scientist, and ML Engineer roles** across the US!
 - 🔭 Was a **Graduate Research Scholar** at the [**SSEC**](https://github.com/uw-ssec) at the eScience Institute (UW), where I built an [**ADA Compliance Tool**](https://github.com/uw-ssec/ada-compliance) to automate WCAG 2.1 AA remediation for research PDFs using LLMs, and earlier contributed to the [**OVRO-LWA open-source project**](https://github.com/uw-ssec/ovro-lwa-portal), building scalable cloud-native data access tools for Caltech's 96TB radio astronomy archive.
-- 🔐 Also contributed to **Google's** [**Vanir open-source library**](https://github.com/google/vanir), extending static security patch detection to Python repositories as part of my UW capstone.
+- 🔐 Also contributed to **Google's** [**Vanir open-source library**](https://github.com/google/vanir), extending static security patch detection to Python repositories as part of my UW capstone. 
 - 🏢 Previously spent **2+ years as a Data Scientist at Dell Technologies** on the Experimentation & Analytics team, shipping NLP systems, propensity models, and A/B testing infrastructure at scale.
 
 💬 You can reach out to me on [**LinkedIn**](https://linkedin.com/in/ijohari) or at ishijohari@gmail.com!
